@@ -96,8 +96,8 @@ const HeroBanner = () => {
 				</div>
 				<div
 					className="col-lg-6 h-100 my-auto"
-					// data-aos="fade-left"
-					// data-aos-delay="500"
+					data-aos="fade-left"
+					data-aos-delay="500"
 					>
 					{/* <img src={banner} alt="Banner" className=" img-fluid" /> */}
 					<Slider/>
