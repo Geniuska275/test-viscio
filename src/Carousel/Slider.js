@@ -6,14 +6,14 @@ function Slider() {
   const slides = [
     
     {
-      url: require("./E6.jpg"),
+      url: require("./V1.jpg"),
     },
     {
-      url: require("./E4.jpg"),
+      url: require("./V3.jpg"),
     },
     
     {
-      url: require("./E5.jpg"),
+      url: require("./Vi1.jpg"),
     },
    
   ];
