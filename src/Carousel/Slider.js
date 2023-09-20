@@ -51,7 +51,7 @@ useEffect(() => {
   // };/
 
   return (
-    <div className='max-w-[700px] h-[620px] w-full m-auto py-30 px-2 relative group'>
+    <div className='max-w-[700px] h-[630px] w-full m-auto py-28 px-2 relative group'>
       <div
         style={{ backgroundImage: `url(${slides[curr].url})` }}
         className='w-full h-full rounded-2xl bg-center bg-cover duration-500'
